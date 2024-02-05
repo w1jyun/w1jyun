@@ -1,53 +1,90 @@
-## 원지윤 (JIYUN WON)
+# Jiyun Won
 
+**E-mail** | w1jyun@postech.ac.kr
 
-## Education
+---
 
-- 포항공과대학교 컴퓨터공학과 학사 (2019.02.-2024.02.)
+### **Education**
 
-- 포항공과대학교 컴퓨터공학과 대학원 석박통합과정, 컴퓨터그래픽스 연구실 (2024.02.-)
+(February, 2019 - February, 2023) B.S. Degree, Dept. of Computer Science and Engineering
 
-- CTU(Czech Technical University in Prague, 체코공과대학교) 교환학생 (2022.09.-2023.08.)
+POSTECH(Pohang University of Science and Technology), Republic of Korea
 
+(September 19, 2022 - February 8, 2023) Exchange student at CTU(Czech Technical University in Prague)
 
+Faculty of Information technology (Bachelor program), CTU(Czech Technical University in Prague), Czech Republic
 
-## Work Experience
+(February, 2023 - Present) M.S. - Ph.D. Integrated Course, Dept. of Computer Science and Engineering
 
-- 스케치소프트 소프트웨어 엔지니어 인턴 (2021.06.-2021.09.)
+Computer Graphics Lab, POSTECH(Pohang University of Science and Technology), Republic of Korea
 
-- 스케치소프트 소프트웨어 Full-time 엔지니어 (2021.12.-2022.07.)
+---
 
-- 스케치소프트 소프트웨어 Part-time 엔지니어 (2022.09.-2023.08.) 
+### **Work Experience**
 
+**[Sketchsoft Inc.](https://www.sketchsoft3d.com/)**
 
-## Research Experience
+(June 21, 2021 - September 10, 2021) Frontend Developer Intern
 
-- 포스텍 컴퓨터그래픽스 연구실 학부생 연구인턴 (2020.12.-2021.02)
+- Develop functions in product ['feather'](https://feather.art/) (3D sketching tool, Web app)
+    - Developed drawing environment setting function
+    - Developed technical drawing function
+        - new mode for drawing with correction for neat lines
+- Researched of Shape Recognition and Curve Fit Algorithm
 
-- 포스텍 컴퓨터그래픽스 연구실 학부생 연구인턴 (2023.07.-2023.08) 
+(December 27, 2021  - July 29, 2022) Full-time Software Engineer
 
+- Develop functions in product ['feather'](https://feather.art/) (3D sketching tool, Web app)
+    - Explored and developed curve liquify function
+    - Explored and developed shear joystick function
+    - Developed camera navigation function
+    - Developed undo/redo(user action history) function
+    - Typescript converting
+- Conduct in-company linear algebra study program
 
+(September, 2022 - August, 2023) Part-time Engineer
 
-## School Activities
+- Develop functions in product ['feather'](https://feather.art/) (3D sketching tool, Web app)
+    - Explored and developed 2D reference image import function
+- Assisted in operating the Feather booth at SIGGRAPH 2023, a renowned computer graphics conference
+    - Conducted live drawing show, engaging with attendees and showcasing various capabilities of Feather
+    - Participated in various sessions and events organized by SIGGRAPH
+- Produced vlogs showcasing the daily activities of team members across various department
 
-- 포스텍 학생홍보단체 알리미 25기 정보팀장, 영상팀장 (2019.03.~2021.07.) 
+---
 
-- 포스텍 교내 창업 문화 확산 및 지원 단체 APGC-Lab 13기, 14기 매니저 (2020.09.~2021.06.)
+### Study **Experience**
 
-- 제1회 사이버 이공계 학생 교류전(포스텍-카이스트 학생대제전) 준비위원회 영상팀원 (2020.08.~2020.09.)
+**POSTECH Computer Graphics Lab**
 
-- 포스텍 제35대 컴퓨터공학과 학생회 홍보부장 (2021.03.~2021.12.)
+(December, 2020 - February, 2021) Undergraduate Student Intern
 
-- 포스텍 노벨위크 2023 학생 파견단 1기 (2023.12.)
+(June, 2023 - July, 2023) Undergraduate Student Intern
 
+---
 
+### **School Activities**
 
-## Awards
+(March, 2019 - July, 2021) POSTECH Alimi(POSTECH Student Ambassador), the head of media contents team
 
-- 2023-2학기 POSTECH 컴퓨터공학과 과제연구 우수상 (2023.12.) 
+(September, 2020 - June, 2021) POSTECH APGC-Lab(student organization to spread and support start-up culture in POSTECH), 13-14th Manager
 
+(August, 2020 - September, 2020) 1st Cyber POSTECH-KAIST Science War, preparatory committee media contents team member
 
+(March, 2021 - December, 2021) POSTECH 35th Student council of Computer Science and Engineering, the head of public relations department
 
-## Skills
+(December, 2023) POSTECH 1st Nobel Week Delegation
 
-- C, C++, python, Javascript, Typescript, Node.js
+---
+
+### Awards
+
+(December, 2023) POSTECH Best Research Award (2nd Prize)
+
+3D Sketch-Driven Text-to-3D Generation
+
+---
+
+### **Skills**
+
+C, C++, python, Javascript, Typescript, Node.js
