@@ -6,12 +6,12 @@
 
 ### **Education**
 
-(February, 2019 - February, 2023) B.S. Degree, Dept. of Computer Science and Engineering
+(February, 2019 - February, 2023) B.S. in Computer Science and Engineering
 - POSTECH(Pohang University of Science and Technology), Republic of Korea
 
 (September 19, 2022 - February 8, 2023) Exchange student at CTU(Czech Technical University in Prague)
 
-- Faculty of Information technology (Bachelor program), CTU(Czech Technical University in Prague), Czech Republic
+- Faculty of Information technology(Bachelor program), CTU(Czech Technical University in Prague), Czech Republic
 
 (February, 2023 - Present) M.S. - Ph.D. Integrated Course, Dept. of Computer Science and Engineering
 - Computer Graphics Lab, POSTECH(Pohang University of Science and Technology), Republic of Korea
