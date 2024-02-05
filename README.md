@@ -1,7 +1,7 @@
 # 원지윤
 
 
-## **Education**
+## **📚 Education**
 
 (2019.02.-2024.02.) **포항공과대학교 컴퓨터공학과 학사**
 
@@ -11,7 +11,7 @@
 
 
 
-## **Work Experience**
+## **👩🏻‍💻 Work Experience**
 
 (2021.06.-2021.09.) **스케치소프트** **소프트웨어 엔지니어 인턴**
 
@@ -20,7 +20,7 @@
 (2022.09.-2023.08.) **스케치소프트 소프트웨어 엔지니어 (Part-time)**
 
 
-## Research **Experience**
+## **👩🏻‍🔬 Research Experience**
 
 (2020.12.-2021.02) **포스텍 컴퓨터그래픽스 연구실 학부생 연구인턴**
 
@@ -28,7 +28,7 @@
 
 
 
-## **School Activities**
+## **🏫 School Activities**
 
 (2019.03.~2021.07.) **포스텍 학생홍보단체 알리미 25기 정보팀장, 영상팀장**
 
@@ -42,11 +42,11 @@
 
 
 
-## **Awards**
+## **🏆 Awards**
 (2023.12.) **2023-2학기 POSTECH 컴퓨터공학과 과제연구 우수상**
 
 
 
-### **Skills**
+## **⚙️ Skills**
 
 C, C++, python, Javascript, Typescript, Node.js
