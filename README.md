@@ -14,7 +14,6 @@
 (February, 2024 - Present) M.S. - Ph.D. Integrated Course, Dept. of Computer Science and Engineering
 - Computer Graphics Lab, POSTECH(Pohang University of Science and Technology), Republic of Korea
 
----
 
 ## **Work Experience**
 
@@ -58,7 +57,7 @@
 - Produced vlogs showcasing the daily activities of team members across various department
 
 
-## ** Research Experience**
+## **Research Experience**
 
 **POSTECH Computer Graphics Lab**
 
