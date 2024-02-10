@@ -20,7 +20,9 @@
 **[Sketchsoft Inc.](https://www.sketchsoft3d.com/)**
 
 (June 21, 2021 - September 10, 2021) Frontend Developer Intern
+
 (December 27, 2021  - July 29, 2022) Full-time Software Engineer
+
 (September, 2022 - August, 2023) Part-time Software Engineer
 
 
