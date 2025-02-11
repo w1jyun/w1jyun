@@ -54,7 +54,7 @@
 
 - 3D Sketch-Driven Text-to-3D Generation
 
-(Feburary, 2025) Best Poster Presentation Award
+(February, 2025) Best Poster Presentation Award
 
 - 37th Workshop on Image Processing and Image Understading (IPIU 2025)
 
